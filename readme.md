@@ -1,4 +1,4 @@
-<h2>Мои полезные функции для Object Detection в Google Colab</h2>
+<h2>Полезные функции для Object Detection в Google Colab</h2>
 
 <b><p>Как использовать:</p></b>
 <pre>
